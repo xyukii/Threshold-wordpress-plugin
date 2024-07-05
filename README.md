@@ -10,7 +10,7 @@ Follow these simple steps to install the plugin:
 
 2. **Download the Zip File**
 
-   [Download ZIP]([url](https://github.com/xyukii/Threshold-wordpress-plugin/archive/refs/heads/main.zip))
+   [Download ZIP](https://github.com/xyukii/Threshold-wordpress-plugin/archive/refs/heads/main.zip)
 
 3. **Go to Your WordPress Plugin Manager**
 
