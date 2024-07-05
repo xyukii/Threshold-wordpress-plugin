@@ -8,11 +8,9 @@ Follow these simple steps to install the plugin:
 
 1. **Click the Code Button at the top right of this repository page**
 
-   ![Click Code Button](https://example.com/path/to/code-button-image.png)
-
 2. **Download the Zip File**
 
-   ![Download Zip](https://example.com/path/to/download-zip-image.png)
+   [Download ZIP]([url](https://github.com/xyukii/Threshold-wordpress-plugin/archive/refs/heads/main.zip))
 
 3. **Go to Your WordPress Plugin Manager**
 
