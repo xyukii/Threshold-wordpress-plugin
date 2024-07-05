@@ -20,13 +20,9 @@ Follow these simple steps to install the plugin:
 
    Simply drag and drop the downloaded `.zip` file into the upload area, or click `Upload Plugin` and select the `.zip` file from your computer.
 
-   ![Upload Plugin](https://example.com/path/to/upload-plugin-image.png)
-
 5. **Activate the Plugin**
 
    After the upload is complete, click `Activate Plugin`.
-
-   ![Activate Plugin](https://example.com/path/to/activate-plugin-image.png)
 
 That's it! Your community-based plugin should now be installed and activated on your WordPress site.
 
